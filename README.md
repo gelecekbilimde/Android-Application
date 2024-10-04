@@ -1,7 +1,4 @@
-# Basic Dictionary
-#### A simple Basic App Dictionary build to demonstrate the use of modern android architecture component with MVVM Architecture 🏗
-
-The App is using the [Dictionary Api] to translate word.
+# Gelecek Bilimde Community Science Communication Platform APIs
 
 ### Build With 🏗️
 - [Kotlin] - Programming language for Android
